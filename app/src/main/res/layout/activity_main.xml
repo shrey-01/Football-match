@@ -54,7 +54,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
             android:layout_weight="1"
-            android:background="#088"
+            android:background="#085"
             android:text="Team1"
             android:textColor="#FFFFFF"
             android:textStyle="bold" />
